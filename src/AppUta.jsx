@@ -8,7 +8,7 @@ function AppUta() {
   return (
     <>
       <Header />
-      <main className="h-full z-0 pt-[96px]">
+      <main className="h-screen z-0 pt-[96px]">
         <AppRoutes />
       </main>
       <Footer />

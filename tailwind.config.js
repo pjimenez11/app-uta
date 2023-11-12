@@ -5,7 +5,6 @@ export default {
     "./node_modules/tw-elements-react/dist/js/**/*.js"],
   theme: {
     colors: {
-      primary: "#4e0101",
       'japanese-maple': {
         '50': '#fff0f0',
         '100': '#ffdede',
